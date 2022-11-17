@@ -1,0 +1,164 @@
+.popup__form {
+    display: block;
+    width: 680px;
+    padding: 40px 42px;
+    background: rgba(229, 234, 248, 1);
+   }
+   .blog__title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 49px;
+    text-transform: uppercase;
+    color: #1E0606;
+    margin-top: 60px;
+    margin-bottom: 14px;
+}
+
+.titles {
+    margin-bottom: -26px;
+}
+
+.blog__home {
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.blog__home-it {
+    font-family: 'Crimson Text';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    color: #1E0606;
+    margin-right: 20px;
+}
+
+.blog__home-item {
+    font-family: 'Crimson Text';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    color: #1E0606;
+    margin-right: 20px;
+}
+
+.arrow__blog {
+    margin-right: 20px;
+}
+
+label {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+}
+
+.name, .tel, .email, .mess {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    width: 100%;
+   }
+
+   .input-name {
+    padding-top: 14px;
+    padding-bottom: 11p;
+   }
+   
+   .tel-email {
+    display: flex;
+    justify-content: space-between;
+   }
+   
+   .tel {
+    margin-right: 10px;
+   }
+   
+   .email {
+    margin-left: 10px;
+   }
+   
+   .textarea-mess {
+    height: 150px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #1E0606;
+   
+    padding: 14px 0 11px 20px;
+   }
+   
+   .check {
+    margin-bottom: 15px;
+   }
+
+   
+   .input__check {
+    margin-right: 15px;
+    border: 2px solid #C29974;
+    border-radius: 3px;
+   }
+   
+   .label-check {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #1E0606;
+   }
+   
+   .button__form {
+    background: #C1C1C1;
+    display: block;
+    font-family: 'Open Sans';
+    text-transform: uppercase;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 9px 22px;
+    cursor: pointer;
+   }
+
+   
+   .text__contact {
+    width: 380px;
+   }
+   
+   .container__form {
+    display: flex;
+    margin-right: 120px;
+   }
+
+   .our {
+    display: flex;
+    font-family: 'Open Sans';
+    margin-bottom: 20px;
+    width: 400;
+   }
+
+   .please {
+    font-family: 'Open Sans';
+    margin-bottom: 20px;
+    width: 400;
+   }
+
+   .an{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 34px;
+    color: #C29974;
+   }
+
+   .contact__wrap {
+    display: flex;
+   }
